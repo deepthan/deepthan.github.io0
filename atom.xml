@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>莫莫莫</title>
+  
+  <subtitle>随笔小记</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://deepthan.github.io/"/>
+  <updated>2019-02-02T09:28:15.994Z</updated>
+  <id>https://deepthan.github.io/</id>
+  
+  <author>
+    <name>莫莫莫</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue watch用法</title>
+    <link href="https://deepthan.github.io/2019/01/22/vue/watch-yong-fa/"/>
+    <id>https://deepthan.github.io/2019/01/22/vue/watch-yong-fa/</id>
+    <published>2019-01-22T13:31:47.000Z</published>
+    <updated>2019-02-02T09:28:15.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;watch 是一个对象，它有键，有值&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;键：你要监控的东西&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;值：可以是三个内容&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;函数：
+        
+      
+    
+    </summary>
+    
+      <category term="javascript" scheme="https://deepthan.github.io/categories/javascript/"/>
+    
+      <category term="vue" scheme="https://deepthan.github.io/categories/javascript/vue/"/>
+    
+      <category term="方法介绍" scheme="https://deepthan.github.io/categories/javascript/vue/%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="vue" scheme="https://deepthan.github.io/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue computed概念深度理解</title>
+    <link href="https://deepthan.github.io/2019/01/22/vue/computed-gai-nian-shen-du-li-jie/"/>
+    <id>https://deepthan.github.io/2019/01/22/vue/computed-gai-nian-shen-du-li-jie/</id>
+    <published>2019-01-22T13:20:43.000Z</published>
+    <updated>2019-02-02T09:28:15.993Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;vue-computed概念深度理解&quot;&gt;&lt;a href=&quot;#vue-computed概念深度理解&quot; class=&quot;headerlink&quot; title=&quot;vue computed概念深度理解&quot;&gt;&lt;/a&gt;vue computed概念深度理解&lt;/h2&gt;&lt;h4
+        
+      
+    
+    </summary>
+    
+      <category term="vue" scheme="https://deepthan.github.io/categories/vue/"/>
+    
+    
+      <category term="javascript" scheme="https://deepthan.github.io/tags/javascript/"/>
+    
+      <category term="vue" scheme="https://deepthan.github.io/tags/vue/"/>
+    
+      <category term="方法介绍" scheme="https://deepthan.github.io/tags/%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue生命周期</title>
+    <link href="https://deepthan.github.io/2019/01/22/vue/vue-sheng-ming-zhou-qi/"/>
+    <id>https://deepthan.github.io/2019/01/22/vue/vue-sheng-ming-zhou-qi/</id>
+    <published>2019-01-22T13:20:43.000Z</published>
+    <updated>2019-02-02T09:28:15.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;beforeCreate
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;这一步之前当前组件对应对象会被实例化(new
+        
+      
+    
+    </summary>
+    
+      <category term="vue" scheme="https://deepthan.github.io/categories/vue/"/>
+    
+    
+      <category term="javascript" scheme="https://deepthan.github.io/tags/javascript/"/>
+    
+      <category term="vue" scheme="https://deepthan.github.io/tags/vue/"/>
+    
+      <category term="方法介绍" scheme="https://deepthan.github.io/tags/%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+</feed>
