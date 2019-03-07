@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://deepthan.github.io/"/>
-  <updated>2019-03-07T05:19:42.210Z</updated>
+  <updated>2019-03-07T05:47:00.808Z</updated>
   <id>https://deepthan.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://deepthan.github.io/2019/03/07/angular/ngclass-yong-fa/"/>
     <id>https://deepthan.github.io/2019/03/07/angular/ngclass-yong-fa/</id>
     <published>2019-03-07T05:19:10.000Z</published>
-    <updated>2019-03-07T05:19:42.210Z</updated>
+    <updated>2019-03-07T05:47:00.808Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,16 @@
       
         
         
-          &lt;h2 id=&quot;ngClass用法，用于不通过情况更改不同的class&quot;&gt;&lt;a href=&quot;#ngClass用法，用于不通过情况更改不同的class&quot; class=&quot;headerlink&quot;
+          &lt;h4 id=&quot;1-ngClass-用于不通过情况更改不同的class&quot;&gt;&lt;a href=&quot;#1-ngClass-用于不通过情况更改不同的class&quot; class=&quot;headerlink&quot; title=&quot;1. ngClass: 用于不通过情况更改不同的class&quot;&gt;&lt;/a&gt;1.
         
       
     
     </summary>
     
+    
+      <category term="方法介绍" scheme="https://deepthan.github.io/tags/%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/"/>
+    
+      <category term="angular" scheme="https://deepthan.github.io/tags/angular/"/>
     
   </entry>
   
@@ -107,6 +111,32 @@
   </entry>
   
   <entry>
+    <title>typescript基本类型介绍</title>
+    <link href="https://deepthan.github.io/2019/01/22/vue/typescript-ji-ben-lei-xing/"/>
+    <id>https://deepthan.github.io/2019/01/22/vue/typescript-ji-ben-lei-xing/</id>
+    <published>2019-01-22T13:20:43.000Z</published>
+    <updated>2019-03-07T05:17:29.979Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-布尔值-boolean&quot;&gt;&lt;a href=&quot;#1-布尔值-boolean&quot; class=&quot;headerlink&quot; title=&quot;1. 布尔值 boolean&quot;&gt;&lt;/a&gt;1. 布尔值 boolean&lt;/h4&gt;&lt;h4 id=&quot;2-数字-number&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="typescript" scheme="https://deepthan.github.io/categories/typescript/"/>
+    
+    
+      <category term="typescript" scheme="https://deepthan.github.io/tags/typescript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>vue生命周期</title>
     <link href="https://deepthan.github.io/2019/01/22/vue/vue-sheng-ming-zhou-qi/"/>
     <id>https://deepthan.github.io/2019/01/22/vue/vue-sheng-ming-zhou-qi/</id>
@@ -135,32 +165,6 @@
       <category term="vue" scheme="https://deepthan.github.io/tags/vue/"/>
     
       <category term="方法介绍" scheme="https://deepthan.github.io/tags/%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>typescript基本类型介绍</title>
-    <link href="https://deepthan.github.io/2019/01/22/vue/typescript-ji-ben-lei-xing/"/>
-    <id>https://deepthan.github.io/2019/01/22/vue/typescript-ji-ben-lei-xing/</id>
-    <published>2019-01-22T13:20:43.000Z</published>
-    <updated>2019-03-07T05:17:29.979Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;1-布尔值-boolean&quot;&gt;&lt;a href=&quot;#1-布尔值-boolean&quot; class=&quot;headerlink&quot; title=&quot;1. 布尔值 boolean&quot;&gt;&lt;/a&gt;1. 布尔值 boolean&lt;/h4&gt;&lt;h4 id=&quot;2-数字-number&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="typescript" scheme="https://deepthan.github.io/categories/typescript/"/>
-    
-    
-      <category term="typescript" scheme="https://deepthan.github.io/tags/typescript/"/>
     
   </entry>
   
